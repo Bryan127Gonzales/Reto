@@ -1,0 +1,10 @@
+Sol-Dolar: 0.27
+Sol-Euro: 0.25
+Sol-Libra: 0.21
+Sol-Yen: 39.03
+Sol-WongCoreano: 356.28
+Dolar-Sol: 3.67
+Euro-Sol: 4.02
+Libra-Sol: 4.66
+Yen-Sol: 0.025
+WongCoreano-Sol: 0.0028
